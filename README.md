@@ -1,12 +1,5 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
-
- 
-
 ## AIM:
- 
-
- 
-
 To write a C program to implement the Playfair Substitution technique.
 
 ## DESCRIPTION:
@@ -192,20 +185,10 @@ printf("Cipher text: %s\n", str);
 return 0;
 }
 ```
-
-
-
-
-
 ## Output:
 
-
 ![image](https://github.com/user-attachments/assets/f216fd9a-f4fc-4386-b129-0ad9f9f1d067)
-
-
 ## RESULT:
-
-
 The program is executed successfully
 
 
